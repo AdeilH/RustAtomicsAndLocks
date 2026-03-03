@@ -1,0 +1,4 @@
+# Exclude target directories
+target/
+**/target/
+.idea
